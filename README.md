@@ -4,7 +4,6 @@ if you want to follow this course please visit:
 https://www.edx.org/course/introduction-reactjs-microsoft-dev281x#!
 
 Here you will find some notes, exercises assignments and more from this course
-===========================================================================
 
 Introduction to ReactJS Learn why developers love ReactJS, an open-source JavaScript library for building user interfaces, in this introductory course.
 
